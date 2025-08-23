@@ -1,0 +1,17 @@
+body{
+    background-color: #121212;
+}
+.bg-light-dark {
+    background-color: #343b4157;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+.container
+{
+    flex: 1;
+}
