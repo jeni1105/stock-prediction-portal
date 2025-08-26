@@ -1,9 +1,10 @@
 import React from 'react'
+import {Link} from "react-router-dom"
 
-export const Button = (props) => {
+ const Button = (props) => {
   return (
     <>
-       <a className={`btn ${props.class1}`} href="#">{props.text}</a>
+       <Link className={`btn ${props.class1}`} to={props.url}>{props.text}</Link>
      </>  
   )
 }
