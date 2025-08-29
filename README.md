@@ -27,32 +27,6 @@ A **full-stack stock prediction web application** that predicts future stock pri
 
 ---
 
-## 📂 Project Structure
-
-stock-prediction-portal/
-│
-├── backend/ # Django backend
-│ ├── manage.py
-│ ├── stock_app/
-│ │ ├── models.py
-│ │ ├── views.py
-│ │ ├── serializers.py
-│ │ ├── urls.py
-│ │ └── lSTM_model.py # LSTM prediction model
-│ └── requirements.txt
-│
-├── frontend/ # React frontend
-│ ├── src/
-│ │ ├── components/ # React components
-│ │ ├── pages/ # App pages
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── package.json
-│ └── public/
-│
-├── README.md
-└── LICENSE
-
 ## Installation and setup
 
 # Clone repository
