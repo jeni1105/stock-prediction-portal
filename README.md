@@ -90,8 +90,8 @@ Make informed decisions based on predictions.
 Make informed decisions based on predictions.
 
 🖼 Screenshots:
-![Home Page](Sreenshots/portal.png)
-![Dashboard](Screenshots/dashboard.png)
-![Login Page](Screenshots/login.png)
-![Backend Page](Screenshots/backend.png)
-![Results Page](Screenshots/results.png)is everthing perfect can i post?
+![Home Page](Sreenshots/portal.jpg)
+![Dashboard](Screenshots/dashboard.jpg)
+![Login Page](Screenshots/login.jpg)
+![Backend Page](Screenshots/backend.jpg)
+![Results Page](Screenshots/results.jpg)is everthing perfect can i post?
