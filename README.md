@@ -61,8 +61,6 @@ Explore:
 
 Make informed decisions based on predictions.
 
-Make informed decisions based on predictions.
-
 🖼 Screenshots:
 ![portal](Screenshots/portal.jpg)
 ![Login Page](Screenshots/login.jpg)
