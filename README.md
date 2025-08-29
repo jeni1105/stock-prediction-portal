@@ -68,4 +68,4 @@ Make informed decisions based on predictions.
 ![Dashboard](Screenshots/dashboard.jpg)
 ![Login Page](Screenshots/login.jpg)
 ![Backend Page](Screenshots/backend.jpg)
-![Results Page](Screenshots/results.jpg)
+![Results Page](Screenshots/eval.jpg)
