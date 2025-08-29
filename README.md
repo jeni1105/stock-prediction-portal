@@ -65,7 +65,7 @@ Make informed decisions based on predictions.
 
 🖼 Screenshots:
 ![portal](Screenshots/portal.jpg)
-![Dashboard](Screenshots/dashboard.jpg)
 ![Login Page](Screenshots/login.jpg)
+![Dashboard](Screenshots/dashboard.jpg)
 ![Backend Page](Screenshots/backend.jpg)
 ![Results Page](Screenshots/eval.jpg)
